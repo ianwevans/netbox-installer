@@ -2,8 +2,6 @@
 
 A streamlined bash script to install Netbox Community Edition
 
-#!/usr/bin/bash
-
 Created by Ian Evans, 10/17/2024 - MIT License.
 
 -> The allowed hosts definition allows all connections into the Netbox instance, consider restricting it if needed.
